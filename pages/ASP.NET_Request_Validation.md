@@ -1,5 +1,10 @@
 ---
-
+layout: col-sidebar
+title: [title of page]
+author: [author name]
+contributors: [contributors]
+permalink: [direct link to page, removes /pages] (this is optional and requires some care)
+tags: [attack, XSS, etc] 
 title: ASP.NET Request Validation
 layout: col-sidebar
 author:
